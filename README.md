@@ -21,7 +21,7 @@ you should type:
 mk_link screenleap 012345678 cyclus_tutorial_ANS
 ```
 
-This will automatically generate and push a file with URL: `http://fuelcycle.org/screencasts/cyclus_tutorial_ANS`
+This will automatically generate and push a file with URL: `http://fuelcycle.org/screencasts/cyclus_tutorial_ANS.html`
 
 To add support for a new type:
 ===============================
